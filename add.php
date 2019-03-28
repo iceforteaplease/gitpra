@@ -11,7 +11,7 @@ $check->insert_profile();
 
 ?><!DOCTYPE html>
 <html>
-<head><title>Patrick Thrasher</title></head>
+<head><title>Patrick Thrasher is the coolest</title></head>
 <body>
 <h1>Adding Profile for <?= $_SESSION['name']; ?></h1>
 
